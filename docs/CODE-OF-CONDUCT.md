@@ -2,16 +2,16 @@
 
 ## Nossos votos
 
-Com objetivo de proporcionar um ambiente receptivo e confortavel,
-nos contribuidores e mantedores, comprometemos de tornar a nossa
-participação no projeto livre de assédio para todos,
-independetemente da idade, corpo, tamanho, deficiência, etnia,
-características sexuais, identidade e expressão de gênero,
-nivel de experiência, educação, status socioeconômico,
-nacionalidade, aparência, raça, religião ou identidade e
+Com objetivo de proporcionar um ambiente receptivo e confortavel, 
+nos contribuidores e mantedores, comprometemos de tornar a nossa 
+participação no projeto livre de assédio para todos, 
+independetemente da idade, corpo, tamanho, deficiência, etnia, 
+características sexuais, identidade e expressão de gênero, 
+nivel de experiência, educação, status socioeconômico, 
+nacionalidade, aparência, raça, religião ou identidade e 
 orientação sexual.
 
-## Padrões comportamentais
+## Padrões comportamentais 
 
 Exemplos de comportamentos que ajudam a manter o ambiente aconchegante:
 
@@ -31,9 +31,9 @@ Exemplos de comportamentos inaceitáveis por parte dos participantes incluem:
 
 ## Responsabilidades
 
-Os mantedores do projeto são responsaveis por esclarecer os padrões de comportamento e devem tomar as medida corretivas,
+Os mantedores do projeto são responsaveis por esclarecer os padrões de comportamento e devem tomar as medida corretivas, 
 adequadas e justas em resposta a quaisquer instância de comportamento inaceitável.
 
-Os mantedores do projeto tem o direito e responsabilidade de remover, editar ou rejeitar comentários, confirmações, código,
-edições de wiki, problemas e outras contribuições que não estejam alinhados com este Código de Conduta, ou para banir temporariamente
+Os mantedores do projeto tem o direito e responsabilidade de remover, editar ou rejeitar comentários, confirmações, código, 
+edições de wiki, problemas e outras contribuições que não estejam alinhados com este Código de Conduta, ou para banir temporariamente 
 ou permanentemente qualquer contribuidor com comportamentos inadequeados, ameaçador, ofensivo ou prejudicial.
